@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
       appBar: AppBar(
         // Here we take the value from the MyHomePage object that was created by
         // the App.build method, and use it to set our appbar title.
-        title: Text('Hello World'),
+        title: Text('Exercise is better in your daily life'),
       ),
       body: Card(
       
@@ -86,9 +86,9 @@ class _MyHomePageState extends State<MyHomePage> {
            ),
            ),
            ExpansionTile(
-             title: Text('Blow Taosifhpsaf'),
+             title: Text('Hello Bitch'),
              children: <Widget>[
-               Text('Boolshit'),
+               Text('    I found a love for me ,Darling just die bright in follow my lead ,i found a girl beautiful and sweet'),
              ],
            )
             
